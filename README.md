@@ -56,6 +56,13 @@ git clone https://github.com/danilo90lan/WeatherWise_ForecastApp_WebAPI.git
 cd WeatherWise_ForecastApp_WebAPI
 npm install
 npm run dev
+```
+
+Then open the local development URL shown in the terminal:
+
+```
+http://localhost:5173
+```
 
 
 ## 🔮 Future Improvements
